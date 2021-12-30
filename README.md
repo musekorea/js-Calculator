@@ -2,14 +2,12 @@
 
 连接: [Calculator Ver.1](https://musekorea.github.io/js-Calculator/){:target="blank"}
 
-连接: <a href="https://musekorea.github.io/js-Calculator/" target="_blank">Calculator</a>
+连接: <a href="https://musekorea.github.io/js-Calculator/" target="_blank">Calculator Ver.1</a>
+
+<a href="https://www.google.com/" target="_blank">새 탭에서 열기</a>
 
 
 <img src="https://user-images.githubusercontent.com/77679025/147753921-505213cb-a591-4f89-9b27-8627698c12df.gif" width="200px">
-
-
-Link : <a href="https://www.google.com" target="_blank">Google</a>
-
 
 
 ## 使用语言
