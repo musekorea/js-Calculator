@@ -1,5 +1,8 @@
 # 原生JavaScript 计算器
 
+链接 : <a href="">Calculator ver.1</a>
+
+
 连接: [Calculator Ver.1](https://musekorea.github.io/js-Calculator/){:target="blank"}
 
 连接: <a href="https://musekorea.github.io/js-Calculator/" target="_blank">Calculator Ver.1</a>
