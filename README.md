@@ -12,9 +12,9 @@
 - CSS
 - Javascript
 
-### CSS 备注
+### Design Style
 
-参考2020年流行的**neumorphism**设计风格
+2020年流行的**neumorphism**设计风格
 
 用box-shadow做3D效果 
 
